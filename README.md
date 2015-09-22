@@ -2,7 +2,7 @@ README: German
 #MASKEN
 
 ##Allgemein:
-Im Projekt „Masken“ geht es darum Masken mit Hilfe eines Algorithmus es zu erstellen. Dabei wurde zuerst Algorithmen in schriftlicher Form aufgeschrieben und diesen dann von Personen ausgeführt. Nach mehreren Versuchen wurde dieser Algorithmus in einen Digitalen Code übertragen und dabei versucht einen Anwendungsbeispiel zu finden. In meinem Fall wurden es Masken.
+Im Projekt „Masken“ geht es darum Masken mit Hilfe eines Algorithmus es zu erstellen. Dabei wurde zuerst Algorithmen in schriftlicher Form aufgeschrieben und diesen dann von Personen ausgeführt. Nach mehreren Versuchen wurde dieser Algorithmus in einen Digitalen Code übertragen und dabei ein Anwendungsbeispiel gefunden. In meinem Fall wurden es Masken.
 
 **1.	Schritt der erste Schriftliche Algorithmus:**
 	
