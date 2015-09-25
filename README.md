@@ -13,7 +13,7 @@ Im Projekt „Masken“ geht es darum Masken mit Hilfe eines Algorithmus es zu e
 5.	Nun drehe das Blatt um 90 Grad und wiederhole Schritt 1-4  
 6.	Nehme nun einen roten Fine Liner und wiederhole Schritt 1-5 und verwende anstatt 20 Strichwiederholungen nur 3 Wiederholungen.  
 
-(Bilder der gezeichneten Algorithmen)[Pictures/Plakat 1 - Doku.jpg]!
+[Bilder der gezeichneten Algorithmen](Pictures/Plakat 1 - Doku.jpg)!
 
 **2. Überarbeitete version des Schriftlichen Algorithmus:**
 
@@ -24,17 +24,17 @@ Im Projekt „Masken“ geht es darum Masken mit Hilfe eines Algorithmus es zu e
 5.	 beschneide eine Seite des Blattes um ein für dich spannendes Format zu erstellen.
 6.	Falte das Blatt wieder auf.
 
-(Bilder der überarbeiteten gezeichneten Algorithmen)[Pictures/Plakat 2 - Doku.jpg]!
+[Bilder der überarbeiteten gezeichneten Algorithmen](Pictures/Plakat 2 - Doku.jpg)!
 
 **3. Versuch den Algorithmus ins Digitale zu übertragen**
 
 1.	Linien zufällig auf der Fläche verteilen (Processing)
 
-(Bilder der überarbeiteten gezeichneten Algorithmen)[Pictures/Plakat 4 - Doku.jpg]!
+[Bilder der überarbeiteten gezeichneten Algorithmen](Pictures/Plakat 4 - Doku.jpg)!
 
 2.	Bestimmte Teile der Fläche in zufälliger Anzahl und position ausschneiden (Bis jetzt nur mit Photoshop)
 
-(Bilder der überarbeiteten gezeichneten Algorithmen)[Pictures/Plakat 4 - Linien Doku.jpg]!
+[Bilder der überarbeiteten gezeichneten Algorithmen](Pictures/Plakat 4 - Linien Doku.jpg)!
 
 ###Benötigt:
 MASKEN
