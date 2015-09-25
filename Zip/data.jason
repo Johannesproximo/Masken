@@ -1,35 +1,33 @@
 {
-  "author": "DEIN NAME",
-  "github": "DEIN GITHUB USER NAME",
-  "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-  "contact":"e-mail oder social network",
+  "author": "Johannes Leick",
+  "github": "Johannesproximo",
+  "url": "https://www.facebook.com/johannes.leick",
+  "contact":"Johannes.Leick@gmx.de",
   "repos": [
-    "DEIN GITHUB REPO NAME ZU PROJEKT 1 !NUR DER NAME NICHT DIE URL",
-    "DEIN GITHUB REPO NAME ZU PROJEKT 2",
-    "DEIN GITHUB REPO NAME ZU PROJEKT 3",
-    "DEIN GITHUB REPO NAME ZU WEITEREN ",
-    "UND SO WEITER"
+    "Masken",
+    "Das-Blutende-Plakat",
+    "Pille-der-Schleimpilz",
   ],
   "algorithm": {
-    "title": "YOUR TITLE FOR THE ALGORITHM",
+    "title": "Masken",
     "image": "ldr-1.png",
     "thumb": "ldr-1-thumb.png",
-    "repo-url": "http://github.com/user/repo",
-    "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+    "repo-url": "https://github.com/Johannesproximo/Masken",
+    "abstract": " Im Projekt „Masken“ geht es darum Masken mit Hilfe eines Algorithmus es zu erstellen. Dabei wurde zuerst Algorithmen in schriftlicher Form aufgeschrieben und diesen dann von Personen ausgeführt. Nach mehreren Versuchen wurde dieser Algorithmus in einen Digitalen Code übertragen und dabei ein Anwendungsbeispiel gefunden. In meinem Fall wurden es Masken."
   },
   "slime": {
-    "title": "YOUR TITLE FOR CROWDSOURING",
+    "title": "Pille-der-Schleimpilz",
     "image": "ldr.png",
     "thumb": "ldr-thumb.png",
-    "repo-url": "http://github.com/user/repo",
-    "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+    "repo-url": "https://github.com/Johannesproximo/Pille-der-Schleimpilz",
+    "abstract": " Pille der Schleimpilz (Physarum polycephalum)ist ein Projekt in dem wir versuchen das Wachstum (Form, Farbe) des Pilzes zu beeinflussen um somit Zeichen und Buchstaben entstehen zu lassen und diese in einem Zeitraffer festzuhalten. Danach bearbeiten wir diese Video mit Processing, OpenCV und bereiten die Entstehung visuel auf."
   },
   "motor-poster": {
-    "title": "YOUR TITLE FOR PHYSICAL BITS",
+    "title": "Das-Blutende-Plakat",
     "image": "ldr.png",
     "thumb": "ldr-thumb.png",
     "video-prototyp-url": "http://vimeo.com/1234567",
     "video-url": "http://vimeo.com/1234567",
-    "abstract": "My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My affection passionately clings to your amorous fellow feeling. My longing fervently longs for your passion. You are my loving rapture.\nYours tenderly,\nM.U.C"
+    "abstract": "Das Blutende Plakat ist ein Plakat welches sich verändert, wenn in der Nähe SMS oder Telefonanrufe getätigt werden. Diese erhöten Strahlenwerte lösen aus, dass das Plakat anfängt zu bluten und dadurch eine ein Pictogramm Ablauf sichtbar wird."
   }
 }
