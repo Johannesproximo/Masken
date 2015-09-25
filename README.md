@@ -11,7 +11,7 @@ Im Projekt „Masken“ geht es darum Masken mit Hilfe eines Algorithmus es zu e
 3.	An dem rechtem Ende der Linie(Seitenkante) lasse die Linie in ca. 30 – 90 Grad reflektieren und ziehe erneut eine wellige gerade bis zur nächsten Seiten kannte.
 4.	Wiederhole Schritt 1.-3. 20 mal  
 5.	Nun drehe das Blatt um 90 Grad und wiederhole Schritt 1-4  
-6.	Nehme nun einen roten Fine Liner und wiederhole Schritt 1-5 und verwende anstatt 20 Strichwiederholungen nur 3 Wiederholungen.  
+6.	Nehme nun einen roten Fine Liner und wiederhole Schritt 1-5 und zeichen anstatt 20 Strichwiederholungen nur 3 Wiederholungen.  
 
 ![Bilder der gezeichneten Algorithmen](Pictures/Plakat 1 - Doku.jpg)
 
@@ -22,7 +22,7 @@ Im Projekt „Masken“ geht es darum Masken mit Hilfe eines Algorithmus es zu e
 3.	Drehe das Blatt um.
 4.	Ziehe nun 20 geschwungene Linien über das Blatt.
 5.	 beschneide eine Seite des Blattes um ein für dich spannendes Format zu erstellen.
-6.	Falte das Blatt wieder auf.
+6.	Falte das Blatt wieder auf.  
 
 ![Bilder der überarbeiteten gezeichneten Algorithmen](Pictures/Plakat 2 - Doku.jpg
 
@@ -30,11 +30,11 @@ Im Projekt „Masken“ geht es darum Masken mit Hilfe eines Algorithmus es zu e
 
 1.	Linien zufällig auf der Fläche verteilen (Processing)
 
-![Bilder der überarbeiteten gezeichneten Algorithmen](Pictures/Plakat 4 - Doku.jpg)
+![Bilder der überarbeiteten gezeichneten Algorithmen](Pictures/Plakat 4 - Linien Doku.jpg)
 
 2.	Bestimmte Teile der Fläche in zufälliger Anzahl und position ausschneiden (Bis jetzt nur mit Photoshop)
 
-![Bilder der überarbeiteten gezeichneten Algorithmen](Pictures/Plakat 4 - Linien Doku.jpg)
+![Bilder der überarbeiteten gezeichneten Algorithmen](Pictures/Plakat 4 - Doku.jpg)
 
 ###Benötigt:
 MASKEN
@@ -43,16 +43,15 @@ Falls du alle Schritte wiederholen möchtest
 -	ein Blatt Papier und Stift
 
 ###Installation:
-Als erstes musst du falls du es noch nicht installiert hast das Programm Processing (https://processing.org/) installieren.
-Danach öffne Processing und kopiere den Code (link) in den Lehren das Lehre Processing Fenster (sketch_150922)
+- Um Processing zu verwenden musst du es über den Folgenden Link [Processing](https://processing.org/) installieren. Auf dieser Seite findest du auch alle Hilfsmittel die due benötigst um damit zu arbeiten.
 
 ###Anwenden/Benutzen
-Jetzt kannst du mit dem Code herumspielen und deine Eigenen Masken erstellen und beeinflussen.
-Dafür lese die Kommentare im Code um entsprechende Werte zu verändern.
+- Danach öffne Processing und kopiere den [Code](code.pyde) in das Lehre Processing Fenster. Das fenster sollte (sketch_150922) oder änhlich heisen. Speichere das Dokument und starte das Programm über den Play Button.
+- Funktioniert alles soweit ? Dann kannst du mit dem Code herumspielen und versuchen ihn zu verändern. Dafür lese die Kommentare im Code.
 
 ###Anmerkungen:
 Leider ist der Code noch nicht ganz fertig daher werden Linien nur in zufälliger folge Dargestellt.
-Eine weitere Idee ist das Format zu ändern.
+Die Schwarzen flächen sind bis jetzt noch nicht im code integriert.
 
 ###Verwandte Arbeiten:
 
