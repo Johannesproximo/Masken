@@ -24,7 +24,7 @@ Im Projekt „Masken“ geht es darum Masken mit Hilfe eines Algorithmus es zu e
 5.	 beschneide eine Seite des Blattes um ein für dich spannendes Format zu erstellen.
 6.	Falte das Blatt wieder auf.  
 
-![Bilder der überarbeiteten gezeichneten Algorithmen](Pictures/Plakat 2 - Doku.jpg
+![Bilder der überarbeiteten gezeichneten Algorithmen](Pictures/Plakat 2 - Doku.jpg)
 
 **3. Versuch den Algorithmus ins Digitale zu übertragen**
 
