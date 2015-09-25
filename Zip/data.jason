@@ -17,15 +17,15 @@
   },
   "slime": {
     "title": "Pille-der-Schleimpilz",
-    "image": "ldr.png",
-    "thumb": "ldr-thumb.png",
+    "image": "ldr-2.png",
+    "thumb": "ldr-2-thumb.png",
     "repo-url": "https://github.com/Johannesproximo/Pille-der-Schleimpilz",
     "abstract": " Pille der Schleimpilz (Physarum polycephalum)ist ein Projekt in dem wir versuchen das Wachstum (Form, Farbe) des Pilzes zu beeinflussen um somit Zeichen und Buchstaben entstehen zu lassen und diese in einem Zeitraffer festzuhalten. Danach bearbeiten wir diese Video mit Processing, OpenCV und bereiten die Entstehung visuel auf."
   },
   "motor-poster": {
     "title": "Das-Blutende-Plakat",
-    "image": "ldr.png",
-    "thumb": "ldr-thumb.png",
+    "image": "ldr-3.png",
+    "thumb": "ldr-3-thumb.png",
     "video-prototyp-url": "http://vimeo.com/1234567",
     "video-url": "http://vimeo.com/1234567",
     "abstract": "Das Blutende Plakat ist ein Plakat welches sich verändert, wenn in der Nähe SMS oder Telefonanrufe getätigt werden. Diese erhöten Strahlenwerte lösen aus, dass das Plakat anfängt zu bluten und dadurch eine ein Pictogramm Ablauf sichtbar wird."
