@@ -54,7 +54,7 @@ Falls du alle Schritte wiederholen möchtest
 - Um Processing zu verwenden musst du es über den Folgenden Link [Processing](https://processing.org/) installieren. Auf dieser Seite findest du auch alle Hilfsmittel die due benötigst um damit zu arbeiten.
 
 ###Anwenden/Benutzen
-- Danach öffne Processing und kopiere den [Code](code.pyde) in das Lehre Processing Fenster. Das fenster sollte (sketch_150922) oder änhlich heisen. Speichere das Dokument und starte das Programm über den Play Button.
+- Danach öffne Processing und kopiere den [Code](code.pyde) in das Leere Processing Fenster. Das fenster sollte (sketch_150922) oder änhlich heisen. Speichere das Dokument und starte das Programm über den Play Button.
 - Funktioniert alles soweit ? Dann kannst du mit dem Code herumspielen und versuchen ihn zu verändern. Dafür lese die Kommentare im Code.
 
 ###Anmerkungen:
