@@ -1,7 +1,7 @@
 README: Englisch
 #MASKEN
 
-![Example Picture](Pictures/beauty-shot.png)
+![Example Picture](Pictures/beauty-shot.jpg)
 
 ### Abstract:
 The projekt "Mask"(masks) creates masks with help of an algorithm. Therefore we wrote algorithm in writing form and accomplished on paper it with the help of Humans. After different tries we convert the algorithm in digital (Python) and were looking for an application oriented use of it. In my case it becomes masks.
